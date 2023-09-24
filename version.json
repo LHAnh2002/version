@@ -4,7 +4,7 @@
     "timekey": {
         "update": true,
         "text": "Thời hạn: ",
-        "row": 0,
+        "row": 1,
         "column": 0
     },
     "label": {
