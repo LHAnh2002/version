@@ -3,7 +3,7 @@
     "shouldUpdateInfo": true,
     "timekey": {
         "update": true,
-        "text": "timeline: ",
+        "text": "timeline",
         "row": 1,
         "column": 0
     },
