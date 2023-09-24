@@ -8,13 +8,13 @@
         "column": 0
     },
     "label": {
-        "update": false,
+        "update": true,
         "text": "welcome",
         "row": 0,
         "column": 0
     },
     "link": {
-        "update": false,
+        "update": true,
         "text": "Zalo",
         "url": "https://zalo.me/g/ibkprq492",
         "row": 0,
