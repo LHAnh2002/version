@@ -1,0 +1,23 @@
+{
+    "version": "v1.0.0_beta",
+    "shouldUpdateInfo": true,
+    "timekey": {
+        "update": true,
+        "text": "Thời hạn: ",
+        "row": 1,
+        "column": 0
+    },
+    "label": {
+        "update": true,
+        "text": "Welcome to use Rise of Kingdoms Bot, check update on",
+        "row": 0,
+        "column": 0
+    },
+    "link": {
+        "update": true,
+        "text": "Zalo",
+        "url": "https://zalo.me/g/ibkprq492",
+        "row": 0,
+        "column": 1
+    }
+}
