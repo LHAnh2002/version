@@ -8,13 +8,13 @@
         "column": 0
     },
     "label": {
-        "update": true,
+        "update": false,
         "text": "Welcome to use Rise of Kingdoms Bot, check update on",
         "row": 0,
         "column": 0
     },
     "link": {
-        "update": true,
+        "update": false,
         "text": "Zalo",
         "url": "https://zalo.me/g/ibkprq492",
         "row": 0,
