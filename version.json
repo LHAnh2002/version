@@ -3,7 +3,7 @@
     "shouldUpdateInfo": true,
     "timekey": {
         "update": true,
-        "text": "Thời hạn: ",
+        "text": "timeline: ",
         "row": 1,
         "column": 0
     },
