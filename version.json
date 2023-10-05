@@ -1,6 +1,6 @@
 {
     "version": "v1.0.1_beta",
-    "shouldUpdateInfo": false,
+    "shouldUpdateInfo": true,
     "timekey": {
         "update": true,
         "text": "timeline",
